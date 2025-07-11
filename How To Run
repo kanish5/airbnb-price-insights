@@ -1,0 +1,5 @@
+## 🧪 How to Run
+1. Clone this repo
+2. Open `eda.ipynb` in Google Colab or Jupyter Notebook
+3. Install required libraries (Pandas, NumPy, Matplotlib, Seaborn)
+4. Run the cells in sequence

@@ -23,3 +23,7 @@ It focuses on understanding how price varies by room type, neighborhood, and ava
 
 ## 🔗 Dataset
 [Kaggle – NYC Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+---
+👤 **Author**: **Kanish Tyagi**
+📫 **Email**: kanishtyagi123@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kanishtyagi123) | [GitHub](https://github.com/kanish5)
